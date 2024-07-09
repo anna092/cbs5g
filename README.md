@@ -1,6 +1,7 @@
 # My Project
 
-This is an Cell Broadcast Service project.
+Cell Broadcast Service project.
+
 ![PWS_thesis-CBS](https://github.com/anna092/cbs5g/assets/113874435/e841bfc6-baf3-4547-b8a1-7f983c9737b4)
 
 
